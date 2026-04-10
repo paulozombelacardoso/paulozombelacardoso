@@ -2,47 +2,37 @@
 
 **Backend Developer | Software Engineering Cadet @ 42**
 
-Sou um **Software Engineering Cadet na 42**, onde desenvolvo competências sólidas em **engenharia de software** através de projetos práticos e intensivos, com forte foco em **resolução de problemas e construção de sistemas eficientes**.
-
-### 🎓 Projetos Acadêmicos - 42 School
-
-Durante minha formação na **42**, desenvolvo projetos intensivos focados em **programação de baixo nível e fundamentos de engenharia de software**.
-
-Principais áreas trabalhadas:
-
-- Estruturas de dados
-- Algoritmos
-- Manipulação de ponteiros
-- Gerenciamento manual de memória
-- Programação em **C e C++**
-
-Esses projetos me ajudam a compreender profundamente **como o software funciona em nível de sistema**, com foco em **performance, eficiência e controle de memória**.
+I am a **Software Engineering Cadet at 42**, where I develop strong skills in **software engineering** through intensive, hands-on projects, with a strong focus on **problem solving and building efficient systems**.
 
 ---
 
-### ⚙️ Backend Projects — Node.js
+## ⚙️ Backend Projects — Node.js
 
-Paralelamente, tenho desenvolvido **APIs backend básicas** utilizando o ecossistema JavaScript.
+I have been developing **basic backend APIs** using the JavaScript ecosystem.
 
-Tecnologias utilizadas:
+### Technologies used:
 
-- **Node.js**
-- **Express**
-- **REST APIs**
-- **Bancos de dados SQL**
-# 🎯 Objetivos
-
-Atualmente estou aberto a:
-
-- Estágios em **Backend Development**
-- Colaborações em projetos de **Software Engineering**
-- **Mentoria** com engenheiros experientes
-
-Meu objetivo é evoluir continuamente e me tornar um **engenheiro backend sólido e confiável**.
+- Node.js
+- Express
+- REST APIs
+- SQL Databases
+- Generative AI
 
 ---
 
-# 🌐 Onde me encontrar
+## 🎯 Goals
+
+Currently, I am open to:
+
+- Internships in **Backend Development**
+- Collaborations on **Software Engineering projects**
+- Mentorship with experienced engineers
+
+My goal is to continuously grow and become a **solid and reliable backend engineer**.
+
+---
+
+## 🌐 Where to find me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/paulo-cardoso-99772835b/" target="_blank">
@@ -64,7 +54,7 @@ Meu objetivo é evoluir continuamente e me tornar um **engenheiro backend sólid
 
 ---
 
-# 🤖 Linguagens & Tecnologias
+## 🤖 Languages & Technologies
 
 <img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
 <img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
@@ -86,6 +76,6 @@ Meu objetivo é evoluir continuamente e me tornar um **engenheiro backend sólid
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulozombelacardoso&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulozombelacardoso&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulcard2025&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulcard2025&layout=compact&theme=tokyonight"/>
 </p>
