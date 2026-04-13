@@ -6,7 +6,7 @@ I am a **Software Engineering Cadet at 42**, where I develop strong skills in **
 
 ---
 
-## ⚙️ Backend Projects — Node.js
+## ⚙️ Backend — Node.js
 
 I have been developing **basic backend APIs** using the JavaScript ecosystem.
 
